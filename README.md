@@ -2,10 +2,10 @@
 <hr>
 <h3>Arrays/list</h3>
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| sl.no: | problem | solution |
+| --- | --- | --- |
+| 1. | <a href="https://leetcode.com/problems/intersection-of-two-arrays"> intersection-of-two-arrays </a> | solution |
+| 2. | <a href="https://leetcode.com/problems/intersection-of-two-arrays"> intersection-of-two-arrays </a> | my solution |
 
 <h3>Sorting</h3>
 <h3>Strings</h3>
